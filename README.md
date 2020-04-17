@@ -3,6 +3,12 @@
 
 #### By Wollirollo, Atrayonis, Chef, Corsair, Odika, MinerMan60101, Stripes,  Lucevar, Bluttier and Grumple
 
+## [Download VSW Here](https://github.com/EllisNZ/VSW-Remaster/releases)
+
+
+## Changelogs 
+[Solstheim](https://ellisnz.github.io/VSW-Remaster/CHANGELOG)
+
 ## VSW Discord
 [Discord Invite](https://discord.gg/xZP5JjU)
 
