@@ -3,7 +3,7 @@
 #### Wollirollo, Atrayonis, Chef, Corsair, Odika, MinerMan60101, Stripes,  Lucevar, Bluttier and Grumple
 
 
-<img src="https://i.imgur.com/pr9Tk8Q.jpgf" width="720" height="450">
+<img src="https://i.imgur.com/pr9Tk8Q.jpgf" width="550" height="344">
 
 ## VSW Discord
 [Discord Invite](https://discord.gg/xZP5JjU)
