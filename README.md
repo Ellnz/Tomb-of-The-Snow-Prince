@@ -1,6 +1,6 @@
 # Vvardenfell and Solstheim Worldspace Remaster
 
-#### Wollirollo, Atrayonis, Corsair, Chef, MinerMan60101, Stripes, Odika, Lucevar, Bluttier and Grumple
+#### Wollirollo, Atrayonis, Chef, Corsair, Odika, MinerMan60101, Stripes,  Lucevar, Bluttier and Grumple
 
 
 ## VSW Discord
@@ -13,16 +13,16 @@ The Vvardenfell and Solstheim Worldspace Remaster project’s primary goal is to
 
 ## Comparison Gallery
 Comparison slide images, comparing vanilla BM, VSW-TOTSP with vanilla graphics, and TOTSP with the VSW graphical replacer package:
-View from Thormoor’s Watch
-Fort Frostmoth
-Skaal Village
-Iggnir River
+(https://imgsli.com/MTE5MDc/0/2 "View from Thormoor’s Watch")
+(https://imgsli.com/MTE5MDg/0/2 "Fort Frostmoth")
+(https://imgsli.com/MTE5MDk/0/2 "Skaal Village")
+(https://imgsli.com/MTE5MTU/0/2 "Iggnir River")
 
 
 ## Installation
-VSW has one significant requirement, Tamriel Data, which is a data repository used and contributed to by many large mods. I also strongly suggest installing and familiarizing yourself with many of the engine improvements and mods listed here. VSW is best installed after you have first achieved a stable installation baseline. 
+VSW has one significant requirement, (https://www.nexusmods.com/morrowind/mods/44537 "Tamriel Data"), which is a data repository used and contributed to by many large mods. I also strongly suggest installing and familiarizing yourself with many of the engine improvements and mods listed (https://www.tamriel-rebuilt.org/recommended-mods "here"). VSW is best installed after you have first achieved a stable installation baseline. 
 
-For the actual installation of VSW, I recommend the use of Wrye Mash:
+For the actual installation of VSW, I recommend the use of (https://www.nexusmods.com/morrowind/mods/45439 "Wrye Mash"):
 1. Download and install Wrye Mash, Polemos Fork
 2. Create a folder named "Installers" in or beside your Morrowind Folder - NOT in your Data Files folder.
 3. Download the VSW archive(s) and put them into your “Installer” packages folder
@@ -44,19 +44,19 @@ For the actual installation of VSW, I recommend the use of Wrye Mash:
 - 014 Fierce Wolf Helmet: by Alaisiagae and Psymoniser, this replaces the cap-like Wolf armor helmets for wolf heads with agape jaws, similar to the standard Bear helmets.
 - 015 Hide-Like Animals Pelts: replaces the vanilla animal pelt meshes with hide models, in case you want something less gruesome and more decorative. 
 
-### Solstheim Graphical Replacer:
-- 010 Solstheim - HD Worldspace Graphical Replacer: a consistent and holistic graphical replacer for the majority of Solstheim assets, particularly all ground textures, as well as Skaal and Raven Rock architecture. This package requires Glow in the Dahrk as some of the replacement window meshes are GiTD-aware. Don’t forget to use the Raven Rock add-on which I helped develop. I also recommend Graphical Herbalism, as all the included flora replacers (such as holly and wolfsbane) are GH-aware.
+#### Solstheim Graphical Replacer:
+- 010 Solstheim - HD Worldspace Graphical Replacer: a consistent and holistic graphical replacer for the majority of Solstheim assets, particularly all ground textures, as well as Skaal and Raven Rock architecture. This package requires (https://www.nexusmods.com/morrowind/mods/45886 "Glow in the Dahrk") as some of the replacement window meshes are GiTD-aware. Don’t forget to use the Raven Rock add-on which I helped develop. I also recommend (https://www.nexusmods.com/morrowind/mods/46599 "Graphical") Herbalism, as all the included flora replacers (such as holly and wolfsbane) are GH-aware.
 - 011 Skyrim-Like Trees: replaces the stock Bloodmoon trees with new models akin to those seen in TESV: Skyrim.
-- 012 Remiros’ Groundcover for TOTSP: bespoke groundcover for the overhauled Solstheim. Requires Remiros’ Groundcover, as the art files are not included in VSW. Remember to enable the groundcover .esp when generating distant land in MGE XE, but do not enable it in the Morrowind launcher, as the grass will become static and impassable.
+- 012 Remiros’ Groundcover for TOTSP: bespoke groundcover for the overhauled Solstheim. Requires (https://www.nexusmods.com/morrowind/mods/46733 "Remiros’ Groundcover"), as the art files are not included in VSW. Remember to enable the groundcover .esp when generating distant land in MGE XE, but do not enable it in the Morrowind launcher, as the grass will become static and impassable.
 - 012 Grey Solstheim Rocks: overwrites the darker VSW rock textures with the greyer rock textures from Otis_Geo’s Vanilla Land mod.
 
 
 ## Credits
 
-### VSW’s Testers
+#### VSW’s Testers
 Bluttier, BUBISHI, Chef, Factor, Frumple Grumple, Leyawynn, Lucevar, Remiros, Melchior Dahrk, Abot, WHreaper
 
-### Solstheim Asset Contributors
+#### Solstheim Asset Contributors
 The Tamriel Rebuilt and Project Tamriel teams for Tamriel Data.
 Chainy: Hircine statue
 SGMonkey: terrain textures
