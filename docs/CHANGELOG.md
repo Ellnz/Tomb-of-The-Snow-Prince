@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Changelog"
-permalink: /Changelog.md
 ---
 
 ## 2.1.X
