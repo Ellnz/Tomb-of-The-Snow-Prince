@@ -1,9 +1,7 @@
-# Vvardenfell and Solstheim Worldspace Remaster
-
-#### Wollirollo, Atrayonis, Chef, Corsair, Odika, MinerMan60101, Stripes,  Lucevar, Bluttier and Grumple
-
 
 <img src="https://i.imgur.com/pr9Tk8Q.jpgf" width="550" height="344">
+
+#### By Wollirollo, Atrayonis, Chef, Corsair, Odika, MinerMan60101, Stripes,  Lucevar, Bluttier and Grumple
 
 ## VSW Discord
 [Discord Invite](https://discord.gg/xZP5JjU)
