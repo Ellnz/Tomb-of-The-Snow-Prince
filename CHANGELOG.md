@@ -1,3 +1,8 @@
+layout: page
+title: "Changelog"
+permalink: /Changelog/
+
+
 ## 2.1.X
 ### Worldspace Changes:
 - Fixed even more mildy-misplaced objects.
