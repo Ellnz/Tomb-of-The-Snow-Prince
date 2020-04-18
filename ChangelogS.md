@@ -1,7 +1,3 @@
----
-layout: page
-title: "Changelog"
----
 
 ## 2.1.X
 ### Worldspace Changes:
