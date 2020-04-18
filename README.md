@@ -14,7 +14,7 @@
 
 
 ## Changelogs 
-[Solstheim](https://ellisnz.github.io/VSW-Remaster/CHANGELOG)
+[Solstheim](https://ellisnz.github.io/VSW-Remaster/CL_Solstheim)
 
 
 ## Overview
