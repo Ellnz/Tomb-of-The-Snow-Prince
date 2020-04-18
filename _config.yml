@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: Vvardenfell and Solstheim Worldspace Remaster
 description: A mod for Tes3 Morrowind
 show_downloads: [True]
+github:
+  zip_url: https://github.com/EllisNZ/VSW-Remaster/releases/latest
