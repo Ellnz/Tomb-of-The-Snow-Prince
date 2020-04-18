@@ -4,29 +4,24 @@
 #### By Wolli, Atrayonis, Chef, Odika, Corsair, MinerMan60101, Stripes, Lucevar, Bluttier and Grumple
 
 
-## [Download VSW Here](https://github.com/EllisNZ/VSW-Remaster/releases/latest)
+## Overview
+The Vvardenfell and Solstheim Worldspace Remaster project’s primary goal is to overhaul the quality and design of those areas to a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. Consequently, the latest VSW versions depend upon the same data repository (Tamriel Data) as TR and PT, greatly increasing integration. VSW also provides HD graphical replacer packages, designed to be coherent with the HD version of Tamriel Data.
 
 
-## VSW Discord
-[Discord Invite](https://discord.gg/xZP5JjU)
-
-
+## Gallery
+[Solstheim](pending)
 
 
 ## Changelogs 
 [Solstheim](https://ellisnz.github.io/VSW-Remaster/CL_Solstheim)
 
 
-## Overview
-The Vvardenfell and Solstheim Worldspace Remaster project’s primary goal is to overhaul the quality and design of those areas to a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. Consequently, the latest VSW versions depend upon the same data repository (Tamriel Data) as TR and PT, greatly increasing integration. VSW also provides HD graphical replacer packages, designed to be coherent with the HD version of Tamriel Data.
+## [Download VSW Here](https://github.com/EllisNZ/VSW-Remaster/releases/latest)
 
 
-## Comparison Gallery
-Comparison slide images, comparing vanilla BM, VSW-TOTSP with vanilla graphics, and TOTSP with the VSW graphical replacer package:
-- [View from Thormoor’s Watch](https://imgsli.com/MTE5MDc/0/2)
-- [Fort Frostmoth](https://imgsli.com/MTE5MDg/0/2)
-- [Skaal Village](https://imgsli.com/MTE5MDk/0/2)
-- [Iggnir River](https://imgsli.com/MTE5MTU/0/2)
+## VSW Discord
+[Discord Invite](https://discord.gg/xZP5JjU)
+
 
 
 ## Installation
