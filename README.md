@@ -1,32 +1,33 @@
 
 <img src="https://i.imgur.com/pr9Tk8Q.jpgf" width="650" height="406">
 
-#### By Wolli, Atrayonis, Chef, Odika, Corsair, MinerMan60101, Stripes, Lucevar, Bluttier and Grumple
+##### By Wolli, Atrayonis, Chef, Odika, Corsair, MinerMan60101, Stripes, Lucevar, Bluttier and Grumple
 
 
-## Overview
+### Overview
 The Vvardenfell and Solstheim Worldspace Remaster project’s primary goal is to overhaul the quality and design of those areas to a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. Consequently, the latest VSW versions depend upon the same data repository (Tamriel Data) as TR and PT, greatly increasing integration. VSW also provides HD graphical replacer packages, designed to be coherent with the HD version of Tamriel Data.
 
 
-## Galleries
+### Galleries
 [Solstheim](pending)
 
 
-## Changelogs 
+### Changelogs 
 [Solstheim](https://ellisnz.github.io/VSW-Remaster/CL_Solstheim)
 
 
-## [Download VSW Here](https://github.com/EllisNZ/VSW-Remaster/releases/latest)
+### Downloads
+[Solstheim Tomb of the Snow Prince](https://github.com/EllisNZ/VSW-Remaster/releases/tag/P1-2.1.0)
+[Solstheim Graphical Replacer](https://github.com/EllisNZ/VSW-Remaster/releases/tag/P2-2.1.0)
 
 
-## VSW Discord
-[Discord Invite](https://discord.gg/xZP5JjU)
+### [VSW Discord](https://discord.gg/xZP5JjU)
 
 
 <img src="https://i.imgur.com/LVkhpVU.jpg" width="650" height="406">
 
 
-## Installation
+### Installation
 VSW has one significant requirement, [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537), which is a data repository used and contributed to by many large mods. I also strongly suggest installing and familiarizing yourself with many of the engine improvements and mods listed [here](https://www.tamriel-rebuilt.org/recommended-mods). VSW is best installed after you have first achieved a stable installation baseline. 
 
 For the actual installation of VSW, I recommend the use of [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439):
@@ -40,9 +41,9 @@ For the actual installation of VSW, I recommend the use of [Wrye Mash](https://w
 8. Go Back to the Mods tab and enable the VSW esm and esp files.
 
 
-## Sub-Packages
+### Sub-Packages
 
-#### Tomb of the Snow Prince:
+##### Tomb of the Snow Prince:
 - 00 Core: a requirement of all subsequential packages.
 - 010 Solstheim - Tomb of the Snow Prince: the landmass overhaul itself. Also includes an esp that adds many new animals and items to - Solstheim level lists, including moose, goats, squirrels, large spiders and various fish.
 - 011 TOTSP Patches: an ever-growing archive of significant compatibility patches between VSW and other mods.
@@ -51,7 +52,7 @@ For the actual installation of VSW, I recommend the use of [Wrye Mash](https://w
 - 014 Fierce Wolf Helmet: by Alaisiagae and Psymoniser, this replaces the cap-like Wolf armor helmets for wolf heads with agape jaws, similar to the standard Bear helmets.
 - 015 Hide-Like Animals Pelts: replaces the vanilla animal pelt meshes with hide models, in case you want something less gruesome and more decorative. 
 
-#### Solstheim Graphical Replacer:
+##### Solstheim Graphical Replacer:
 - 010 Solstheim - HD Worldspace Graphical Replacer: a consistent and holistic graphical replacer for the majority of Solstheim assets, particularly all ground textures, as well as Skaal and Raven Rock architecture. This package requires [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886) as some of the replacement window meshes are GiTD-aware. Don’t forget to use the Raven Rock add-on which I helped develop. I also recommend [Graphical Herbalism](https://www.nexusmods.com/morrowind/mods/46599), as all the included flora replacers (such as holly and wolfsbane) are GH-aware.
 - 011 Skyrim-Like Trees: replaces the stock Bloodmoon trees with new models akin to those seen in TESV: Skyrim.
 - 012 Remiros’ Groundcover for TOTSP: bespoke groundcover for the overhauled Solstheim. Requires [Remiros’ Groundcover](https://www.nexusmods.com/morrowind/mods/46733), as the art files are not included in VSW. Remember to enable the groundcover .esp when generating distant land in MGE XE, but do not enable it in the Morrowind launcher, as the grass will become static and impassable.
@@ -60,14 +61,14 @@ For the actual installation of VSW, I recommend the use of [Wrye Mash](https://w
 <img src="https://i.imgur.com/hD8prw4.jpg" width="650" height="406">
 
 
-## Credits
+### Credits
 
-#### VSW’s Testers
+##### VSW’s Testers
 Bluttier, BUBISHI, Chef, Factor, Frumple Grumple, Leyawynn, Lucevar, Remiros, Melchior Dahrk, Abot, WHreaper
 
-#### Solstheim Asset Contributors
+##### Solstheim Asset Contributors
 The Tamriel Rebuilt and Project Tamriel teams for Tamriel Data, Chainy: Hircine statue, SGMonkey: terrain textures, Nebula1: terrain textures, Otis_Geo: terrain textures, ddy: terrain textures, dawghus: Nord tapestries, Hicks123: various textures, Stupostar: various mesh changes and optimizations, and Graphical Herbalism models, Alaisiagae: Bloodmoon pelt replacer BPR, wolf helmet replacer, Remiros: eagle sword, Raven Rock HD, Lake Fjalding fix, Saint_Juib: Snow Prince armor redux, Morana: better Snow Prince armor, Prince Psystorm: missing snow Armor
 
 
-## Permissions
+### Permissions
 Under no circumstances may you redistribute VSW. You may create mods that depend upon the VSW esms and esps. 
