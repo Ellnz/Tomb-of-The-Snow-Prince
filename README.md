@@ -1,7 +1,7 @@
 
 <img src="https://i.imgur.com/pr9Tk8Q.jpgf" width="650" height="406">
 
-#### By Wollirollo, Atrayonis, Chef, Corsair, Odika, MinerMan60101, Stripes,  Lucevar, Bluttier and Grumple
+#### By Wolli, Atrayonis, Chef, Odika, Corsair, MinerMan60101, Stripes, Lucevar, Bluttier and Grumple
 
 
 ## [Download VSW Here](https://github.com/EllisNZ/VSW-Remaster/releases/latest)
