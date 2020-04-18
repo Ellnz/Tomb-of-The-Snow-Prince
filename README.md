@@ -8,7 +8,7 @@
 The Vvardenfell and Solstheim Worldspace Remaster project’s primary goal is to overhaul the quality and design of those areas to a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. Consequently, the latest VSW versions depend upon the same data repository (Tamriel Data) as TR and PT, greatly increasing integration. VSW also provides HD graphical replacer packages, designed to be coherent with the HD version of Tamriel Data.
 
 
-## Gallery
+## Galleries
 [Solstheim](pending)
 
 
