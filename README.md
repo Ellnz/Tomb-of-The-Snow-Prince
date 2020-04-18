@@ -23,6 +23,8 @@ The Vvardenfell and Solstheim Worldspace Remaster project’s primary goal is to
 [Discord Invite](https://discord.gg/xZP5JjU)
 
 
+<img src="https://i.imgur.com/LVkhpVU.jpg" width="650" height="406">
+
 
 ## Installation
 VSW has one significant requirement, [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537), which is a data repository used and contributed to by many large mods. I also strongly suggest installing and familiarizing yourself with many of the engine improvements and mods listed [here](https://www.tamriel-rebuilt.org/recommended-mods). VSW is best installed after you have first achieved a stable installation baseline. 
