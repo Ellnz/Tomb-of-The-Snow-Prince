@@ -12,10 +12,12 @@
 - Removed the rocksrocks and snow along the path to Bloodskaal Barrow which were making it inaccessible. 
 - Fixed a floating food hut in Skaal Village
 - Added some extra Tamriel Data items to the worldspace, like Nordic Silver and Huntsmans bows, and Harpoons. 
+
 ### Graphical Changes:
 - Scaled down a few previously-missed HD textures (mostly creatures) in the core repository, in order to match vanilla resolution (HD versions are provided by the graphical replacer package).
 - Fixed flickering on 'wl_ex_statue_hircine', the Hircine statue.
 - Resolved an archaic alpha-flag on the Flora_BM_shrub_0X models.
+
 ### Package Changes:
 - Moved Remiros' grass sub-package to the graphical TOTSP download.
 - Add squirrels to the creature expansion package, expanded that package beyond just creatures; adding new items, weapons and ingredients to Solstheim level lists and containers, for a more cohesive integration with Tamriel Data and the Province mods. Ie: Solstheim boars and horker now drop meat, like those of SHOTN.
@@ -38,8 +40,8 @@ Removed the creature expansion sub-package. Move the new item expansion .esp int
 - Restored a missing BM_bear_snow_unique to -17,22 and -19,25.
 - Added Draugr spawns outside some barrows.
 - Replaced random creature spawns in front of the Water Stone with Draugr.
--Removed Riekling patrol from the cave beneath the Altar of Thrond.
--Fixed massive Riekling patrol sunk beneath Castle Karstaag.
+- Removed Riekling patrol from the cave beneath the Altar of Thrond.
+- Fixed massive Riekling patrol sunk beneath Castle Karstaag.
 - Removed Riekling patrol from -11,28 (too close to a wolf pack).
 - Fixed Riekling patrol sunk in -17,29 (across the bridge from Hvitkald Peak).
 - Relocated a nearby wolf pack to be in front of the Connorflenge Barrow.
@@ -56,6 +58,7 @@ Removed the creature expansion sub-package. Move the new item expansion .esp int
 - Added rocks so you can't go under the waterfall -16,23.
 - Added an entirely new barrow by Corsair, called Heidrun barrow. It contains a unique sword by Remiros.
 - Fixed Valbrandr Barrow's broken exit marker's placement.
+
 ### Graphical Changes:
 - Fixed missing wl_wtx_metal_trim_01 on wl_in_skaal_firep; missing stump texture on wl_ex_skaal_f_l_01.
 - The MWScript Raven Rock Windows Glow package has been disbanded: MWScript functionality was replaced with MWSE-Lua, and the RR windows have been moved from VSW add integrated directly into the Glow in the Dahrk mod.
@@ -66,6 +69,7 @@ Removed the creature expansion sub-package. Move the new item expansion .esp int
 - Improved tree leaf geometry for ingame lighting.
 - Decreased the brightness and contrast on some dirt textures, as requested.
 - Provided vanilla resolution textures for all new VSW assets, to be more cohesive with the vanilla game. Included HD replacers of these custom assets within the graphical replacers.
+
 ### Package Changes:
 - Split the Solstheim sub-packages from the main VSW package, which will be the archive method for all future releases. Split the landmass overhaul and graphical replacer into separate packages.
 - Added the Missing Snow Prince Armor mod.
@@ -75,12 +79,15 @@ Removed the creature expansion sub-package. Move the new item expansion .esp int
 - Added a new sub-package containing an esp that adds more, mostly passive creatures to Solsthiem
 - Split the graphical sub-packages and content sub-packages into separate downloads. 
 - Added a patch for Pfp.
+
 ## 1.0.3
 ### Worldspace Changes:
 - Lowered a floating tree in Raven Rock.
 - Fixed pathgrids for Fort Frostmoth, Raven Rock, Skaal Village and Thirsk.
+
 ### Graphical Changes:
 - Fixed numerous UV and texture issues present on the Raven Rock and Skaal tilesets; applied MOP improvements to the models.
+
 ## 1.0.2
 ### Worldspace Changes:
 - Resolved several instances of rocks caspering.
@@ -90,12 +97,14 @@ Removed the creature expansion sub-package. Move the new item expansion .esp int
 - Deleted Numerous unused NPCs/Interiors created for the previous STOTSP mod.
 ### Package Changes:
 - Packaged missing Raven Rock colony fireplaces.
+
 ## 1.0.1
 ### Graphical Changes:
 - Added missing MIP maps to dozens of textures, and removed unnecessary alpha channels from others.
 - Fixed missing texture path for ingred_comberry_01.nif (again...?)
 - Fixed numerous clipping/caspering issues that occurred on Solstheim when the Solstheim components of the graphical package were not installed.
 - Resolved a couple of BM cliff models using tx_bm_rock_01.dds instead of 02.
+
 ## 1.0.0 Release
 - released!
 
