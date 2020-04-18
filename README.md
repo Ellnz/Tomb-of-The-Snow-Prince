@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/pr9Tk8Q.jpgf" width="800" height="500">
+<img src="https://i.imgur.com/pr9Tk8Q.jpgf" width="650" height="406">
 
 #### By Wollirollo, Atrayonis, Chef, Corsair, Odika, MinerMan60101, Stripes,  Lucevar, Bluttier and Grumple
 
@@ -60,7 +60,7 @@ For the actual installation of VSW, I recommend the use of [Wrye Mash](https://w
 - 012 Remiros’ Groundcover for TOTSP: bespoke groundcover for the overhauled Solstheim. Requires [Remiros’ Groundcover](https://www.nexusmods.com/morrowind/mods/46733), as the art files are not included in VSW. Remember to enable the groundcover .esp when generating distant land in MGE XE, but do not enable it in the Morrowind launcher, as the grass will become static and impassable.
 - 012 Grey Solstheim Rocks: overwrites the darker VSW rock textures with the greyer rock textures from Otis_Geo’s Vanilla Land mod.
 
-<img src="https://i.imgur.com/hD8prw4.jpg" width="800" height="500">
+<img src="https://i.imgur.com/hD8prw4.jpg" width="650" height="406">
 
 
 ## Credits
