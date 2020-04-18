@@ -6,6 +6,7 @@
 
 ### Overview
 The Vvardenfell and Solstheim Worldspace Remaster project’s primary goal is to overhaul the quality and design of those areas to a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. Consequently, the latest VSW versions depend upon the same data repository (Tamriel Data) as TR and PT, greatly increasing integration. VSW also provides HD graphical replacer packages, designed to be coherent with the HD version of Tamriel Data.
+[VSW Discord invite](https://discord.gg/xZP5JjU)
 
 
 ### Galleries
@@ -19,9 +20,6 @@ The Vvardenfell and Solstheim Worldspace Remaster project’s primary goal is to
 ### Downloads
 [Solstheim Tomb of the Snow Prince](https://github.com/EllisNZ/VSW-Remaster/releases/tag/P1-2.1.0)
 [Solstheim Graphical Replacer](https://github.com/EllisNZ/VSW-Remaster/releases/tag/P2-2.1.0)
-
-
-### [VSW Discord](https://discord.gg/xZP5JjU)
 
 
 <img src="https://i.imgur.com/LVkhpVU.jpg" width="650" height="406">
