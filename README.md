@@ -7,14 +7,14 @@
 ### Overview
 ToTSP is part of the "Heart of the Velothi" (HotV) modular worldspace remake series. HoTV's primary goal is to overhaul the quality and design of rge vanilla-game areas to be at a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. 
 
-willies!
+
 ### [Gallery](pending)
 
 
 ### [Changelog](https://ellisnz.github.io/VSW-Remaster/CL_Solstheim)
-##
 
-### Downloads
+
+### Download
 - [Solstheim Tomb of the Snow Prince v2.1.0](https://github.com/EllisNZ/VSW-Remaster/releases/tag/P1-2.1.0)
 - [Solstheim Graphical Replacer v2.1.0](https://github.com/EllisNZ/VSW-Remaster/releases/tag/P2-2.1.0)
 
