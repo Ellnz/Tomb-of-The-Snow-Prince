@@ -11,7 +11,7 @@ ToTSP is part of the "Heart of the Velothi" (HotV) modular worldspace remake ser
 ### [Gallery](pending)
 
 
-### [Changelog](https://ellisnz.github.io/VSW-Remaster/CL_Solstheim)
+### [Changelog](https://ellisnz.github.io/Tomb-of-The-Snow-Prince/CL_ToTSP)
 
 
 ### Download
