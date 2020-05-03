@@ -1,4 +1,12 @@
 
+## 2.2.X
+### Fixes
+- Changed ID convention.
+- Sados Relothan, who was set up as an Imperial, changed to a Dunmer. Level changed from 40 to 4.
+- One of the doors renamed: Wooded Gate -> Wooden Gate.
+- Removed an unused, broken static.
+- (uncleaned dev version only) Fixed various typos in dialogue entries for topic "booze".
+
 ## 2.1.X
 ### Worldspace Changes:
 - Fixed even more mildy-misplaced objects.
