@@ -5,7 +5,7 @@
 
 
 ### Overview
-ToTSP is part of the "Heart of the Velothi" (HotV) modular worldspace remake series. HoTV's primary goal is to overhaul the quality and design of rge vanilla-game areas to be at a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. 
+ToTSP is part of the "Heart of the Velothi" (HotV) modular worldspace remake series. HoTV's primary goal is to overhaul the quality and design of the vanilla-game areas to be at a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. 
 
 
 ### [Gallery](pending)
@@ -37,6 +37,7 @@ For the actual installation of ToTSP, I recommend the use of [Wrye Mash](https:/
 
 
 ### Sub-Packages
+TOTSP has been split into two packages. The first “Solstheim_TOTSP”, contains the landmass overhaul itself, as well as some minor and gameplay changes. The second “Solstheim_Graphical_Replacer” contains only graphical replacers. The two packages are not reliant upon one another. For example, if you want to play TOTSP with vanilla consistent textures and models, then ignore the latter package (as seen in the comparison gallery). 
 
 ##### Tomb of the Snow Prince:
 - 00 Core: a requirement of all subsequential packages.
