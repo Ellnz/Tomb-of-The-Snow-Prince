@@ -9,6 +9,9 @@ ToTSP is part of the "Heart of the Velothi" (HotV) modular worldspace remake ser
 - [Hotv - Gnisis](https://www.nexusmods.com/morrowind/mods/47978/)
 
 
+### [HoTV Discord](https://discord.gg/n3fgfde)
+
+
 ### [Gallery](pending)
 
 
