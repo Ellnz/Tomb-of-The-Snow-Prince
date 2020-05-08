@@ -5,7 +5,7 @@
 
 
 ### Overview
-ToTSP is part of the "Heart of the Velothi" (HotV) modular worldspace remake series. HoTV's primary goal is to overhaul the quality and design of the vanilla-game areas to be at a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. 
+ToTSP is part of the "Heart of the Velothi" (HotV) modular worldspace remake series. HoTV's primary goal is to overhaul the quality and design of the vanilla-game areas to be at a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. Other mods in the Heart of The Velothi Series:
 - [Hotv - Gnisis](https://www.nexusmods.com/morrowind/mods/47978/)
 
 
