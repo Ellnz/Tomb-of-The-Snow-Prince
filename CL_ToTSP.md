@@ -8,19 +8,23 @@
 - Fixed various typos in dialogue entries for topic "booze".
 - Added Leradr Barrow, which replaces Heirdun Barrow, due to permissions issues.
 - Removed a duplicate snow prince cuirass from Jolgier Barrow in the Snow Prince Armor Redux.esp.
+- Removed a duplicate Sigvatr the Strong.
 - Fixed floating Torches in Raven Rock.
 - Resolved rogue Doormarker in -22,17.
 - Fix caspering t_mw_terrrockvm_cliffsnow_02: -12, 28: -93178.7 233436 2315.99.
 - Fix capering colony door: -18, 25: -141910 207956 1643.33. 
-- Udyfrykte Lair had a non-unique static blocking it, replaced it with a new unique static (just to make sure) and adjust the scripts.
+- Udyfrykte Lair had a non-unique static blocking it, preventing its later removement; replaced it with a new unique static (just to make sure) and adjust the scripts.
 - Fixed the quest Race Against the Clock: Carnius Magius had been misplaced in the water, and needed repositioning.
 - Fixed the quest The Skaal Test of Wisdom: Halfhand sometimes did not enter the wolf-enclosure.
 - Hid unintentionally-visible script-component-ring on the Skaal wolf enclosure gatepost.
+- Fixed the quest The Ristaag: NPC movement has been corrected and the quest progresses normally.
+- Fixed incorrect location pointers in The Skaal Test of Strength and The Ritual of Trees.
 
 ### Package Changes:
 - Removed "VSW" from file names. 
 - Removed PfP v3.2 compatbility patch.
 - Added PfP v4 compatbility patch.
+- Added a Forceful Travel NPC Override patch, load this after any other mod that affects them.
 
 ## 2.1.X
 ### Worldspace Changes:
