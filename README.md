@@ -8,7 +8,7 @@
 ToTSP goal is to improve the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC's to a level that is consistent with modern Tes3 mod projects, such as Tamriel Rebuilt, Project Tamriel, and Heart of the Velothi.
 
 
-### [Discord](pending, list of discords?)
+### List of Discords go here?
 
 
 ### [Gallery](pending)
@@ -57,7 +57,7 @@ TOTSP has been split into two packages. The first “Solstheim_TOTSP”, contain
 - 012 Remiros’ Groundcover for TOTSP: bespoke groundcover for the overhauled Solstheim. Requires [Remiros’ Groundcover](https://www.nexusmods.com/morrowind/mods/46733), as the art files are not included in ToTSP. Remember to enable the groundcover .esp when generating distant land in MGE XE, but do not enable it in the Morrowind launcher, as the grass will become static and impassable.
 - 012 Grey Solstheim Rocks: overwrites the darker rock texture in the main package with the greyer rock textures from Otis_Geo’s Vanilla Land mod.
 
-![Promotion image](Images/Promo_031.jpg)
+![Promotion image](Images/Promo_03.jpg)
 
 
 ### Credits
