@@ -1,15 +1,14 @@
 
-<img src="https://i.imgur.com/pr9Tk8Q.jpgf" width="650" height="406">
+![Header image](Images/Promo_01.jpg)
 
 ##### By Wolli, Atrayonis, Chef, Odika, Corsair, MinerMan60101, Stripes, Lucevar, Bluttier and Grumple
 
 
 ### Overview
-ToTSP is part of the "Heart of the Velothi" (HotV) modular worldspace remake series. HoTV's primary goal is to overhaul the quality and design of the vanilla-game areas to be at a level that is consistent with the worldspaces of Tamriel Rebuilt and Project Tamriel. Other mods in the Heart of The Velothi Series:
-- [Hotv - Gnisis](https://www.nexusmods.com/morrowind/mods/47978/)
+ToTSP goal is to improve the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC's to a level that is consistent with modern Tes3 mod projects, such as Tamriel Rebuilt, Project Tamriel, and Heart of the Velothi.
 
 
-### [HoTV Discord](https://discord.gg/n3fgfde)
+### [Discord](pending, list of discords?)
 
 
 ### [Gallery](pending)
@@ -19,11 +18,11 @@ ToTSP is part of the "Heart of the Velothi" (HotV) modular worldspace remake ser
 
 
 ### Download
-- [Solstheim Tomb of the Snow Prince v2.1.0](https://github.com/EllisNZ/Tomb-of-The-Snow-Prince/releases/tag/P1-2.1.0)
-- [Solstheim Graphical Replacer v2.1.0](https://github.com/EllisNZ/Tomb-of-The-Snow-Prince/releases/tag/P2-2.1.0)
+- [Solstheim Tomb of the Snow Prince v2.2.0](https://github.com/EllisNZ/Tomb-of-The-Snow-Prince/releases/tag/P1-2.2.0)
+- [Solstheim Graphical Replacer v2.2.0](https://github.com/EllisNZ/Tomb-of-The-Snow-Prince/releases/tag/P2-2.2.0)
 
 
-<img src="https://i.imgur.com/LVkhpVU.jpg" width="650" height="406">
+![Promotion image](Images/Promo_02.jpg)
 
 
 ### Installation
@@ -44,7 +43,7 @@ For the actual installation of ToTSP, I recommend the use of [Wrye Mash](https:/
 TOTSP has been split into two packages. The first “Solstheim_TOTSP”, contains the landmass overhaul itself, as well as some minor and gameplay changes. The second “Solstheim_Graphical_Replacer” contains only graphical replacers. The two packages are not reliant upon one another. For example, if you want to play TOTSP with vanilla consistent textures and models, then ignore the latter package (as seen in the comparison gallery). 
 
 ##### Tomb of the Snow Prince:
-- 00 Core: a requirement of all subsequential packages.
+- 000 Core: a requirement of all subsequential packages.
 - 010 Solstheim - Tomb of the Snow Prince: the landmass overhaul itself. Also includes an esp that adds many new animals and items to - Solstheim level lists, including moose, goats, squirrels, large spiders and various fish.
 - 011 TOTSP Patches: an ever-growing archive of significant compatibility patches between ToTSP and other mods.
 - 012 Armor of the Snow Prince Redux: by Saint_Juib and Moranar, this sub-package replaces the Snow Princes’ armor with a unique armor set, as it originally used the vanilla steel set.
@@ -58,7 +57,7 @@ TOTSP has been split into two packages. The first “Solstheim_TOTSP”, contain
 - 012 Remiros’ Groundcover for TOTSP: bespoke groundcover for the overhauled Solstheim. Requires [Remiros’ Groundcover](https://www.nexusmods.com/morrowind/mods/46733), as the art files are not included in ToTSP. Remember to enable the groundcover .esp when generating distant land in MGE XE, but do not enable it in the Morrowind launcher, as the grass will become static and impassable.
 - 012 Grey Solstheim Rocks: overwrites the darker rock texture in the main package with the greyer rock textures from Otis_Geo’s Vanilla Land mod.
 
-<img src="https://i.imgur.com/hD8prw4.jpg" width="650" height="406">
+![Promotion image](Images/Promo_031.jpg)
 
 
 ### Credits
