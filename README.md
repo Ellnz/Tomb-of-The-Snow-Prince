@@ -67,8 +67,8 @@ TOTSP has been split into two packages. The first “Solstheim_TOTSP”, contain
 
 
 ### Compatibility Patch Compilations
-[RandomPal's Compilations](https://www.nexusmods.com/morrowind/mods/48422)
-[Revenorror](https://www.nexusmods.com/morrowind/mods/48525)
+- [RandomPal's compilation](https://www.nexusmods.com/morrowind/mods/48422)
+- [Revenorror's compilation](https://www.nexusmods.com/morrowind/mods/48525)
 
 ### Credits
 
