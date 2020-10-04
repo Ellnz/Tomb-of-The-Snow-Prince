@@ -1,7 +1,7 @@
 
 ![Header image](Images/Promo_01.jpg)
 
-##### By Wolli, Atrayonis, Chef, Odika, Corsair, MinerMan60101, Stripes, Lucevar, Bluttier and Grumple
+##### By Wollirollo, Atrayonis, Chef, Odika, MinerMan60101, Stripes, Lucevar, Bluttier and Grumple
 
 
 ### Overview
@@ -12,6 +12,12 @@ ToTSP goal is to improve the graphical fidelity, environmental design, and gamep
 
 
 ### [Gallery](pending)
+Comparision slides:
+[View from Thormoor’s Watch](https://imgsli.com/MTE5MDc/0/2)
+[Fort Frostmoth](https://imgsli.com/MTE5MDg/0/2)
+[Skaal Village](https://imgsli.com/MTE5MDk/0/2)
+[Iggnir River](https://imgsli.com/MTE5MTU/0/2)
+
 
 
 ### [Changelog](https://ellisnz.github.io/Tomb-of-The-Snow-Prince/CL_ToTSP)
@@ -59,6 +65,10 @@ TOTSP has been split into two packages. The first “Solstheim_TOTSP”, contain
 
 ![Promotion image](Images/Promo_03.jpg)
 
+
+### Compatibility Patch Compilations
+[RandomPal's Compilations](https://www.nexusmods.com/morrowind/mods/48422)
+[Revenorror](https://www.nexusmods.com/morrowind/mods/48525)
 
 ### Credits
 
