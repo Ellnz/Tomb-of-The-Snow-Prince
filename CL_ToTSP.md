@@ -1,5 +1,5 @@
 
-## 2.2.0 (Indev)
+## 2.2.0
 ### Worldspace Changes
 - Changed internal ID convention.
 - Sados Relothan, who was set up as an Imperial, changed to a Dunmer. Level changed from 40 to 4.
