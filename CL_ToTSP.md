@@ -1,3 +1,6 @@
+## 2.2.1
+### Worldspace Changes
+- Fixed Voiced INFO entries pointing to the wrong cells.
 
 ## 2.2.0
 ### Worldspace Changes
