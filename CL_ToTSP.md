@@ -5,6 +5,7 @@
 - In the Hirstaang Forest, dozens of trees have been resized to add greater growth-variety to the forest. 
 - More vertex painting and floating/clipping static fixes, as usually.
 - Wild bees and beehives have been added to the Hirstaang Forest and Isinfier Plains regions.
+- Decorated the small pool in Hirstaang Forest with glowbugs, trout and some logs.
 
 ### Package Changes:
 - Added an alternative TD Integrations esp that adds spiders to Hirstaang Level lists (as the default esp no longer has spiders).
