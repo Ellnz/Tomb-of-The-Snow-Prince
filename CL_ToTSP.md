@@ -4,12 +4,12 @@
 - Added deer and female moose to Solstheim level-lists via the TD Content Integration esps. Spiders have been removed.
 - In the Hirstaang Forest, dozens of trees have been resized to add greater growth-variety to the forest. 
 - More vertex painting and floating/clipping static fixes, as usually.
-- Bees and wild beehives have been added to the Hirstaang Forest and Isinfier Plains regions.
-- 
+- Wild bees and beehives have been added to the Hirstaang Forest and Isinfier Plains regions.
 
 ### Package Changes:
 - Added an alternative TD Integrations esp that adds spiders to Hirstaang Level lists (as the default esp no longer has spiders).
 - Cleared squirrel creatures, soundgen, ingredient and item level lists from TD integrations esps as these references have since been merged directly into Tamriel Data v8.
+- Removed horker and boar meet from horkers and tusked bristleback. Another mod will serve this purpose soon.
 
 
 
