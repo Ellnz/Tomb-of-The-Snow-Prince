@@ -6,6 +6,7 @@
 - More vertex painting and floating/clipping static fixes, as usually.
 - Wild bees and beehives have been added to the Hirstaang Forest and Isinfier Plains regions.
 - Decorated the small pool in Hirstaang Forest with glowbugs, trout and some logs.
+- Removed dozens of trees from static cliffs, as trees growing from rock looks wrong. 
 
 ### Package Changes:
 - Added an alternative TD Integrations esp that adds spiders to Hirstaang Level lists (as the default esp no longer has spiders).
