@@ -12,9 +12,7 @@
 - Added an alternative TD Integrations esp that adds spiders to Hirstaang Level lists (as the default esp no longer has spiders).
 - Cleared squirrel creatures, soundgen, ingredient and item level lists from TD integrations esps as these references have since been merged directly into Tamriel Data v8.
 - Removed horker and boar meet from horkers and tusked bristleback. Another mod will serve this purpose soon.
-
-
-
+- Removed Saint-Juib and Moranar's Snow Prince Armor from the TOTSP package. 
 
 ## 2.2.1
 ### Worldspace Changes
