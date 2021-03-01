@@ -5,10 +5,7 @@
 
 
 ### Overview
-TOTSP goal is to improve the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC's to a level that is consistent with modern Tes3 mod projects, such as Tamriel Rebuilt, Project Tamriel, and Heart of the Velothi.
-
-
-### List of Discords go here?
+TOTSP goal is to improve the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC's to a level that is consistent with modern Tes3 mod projects, such as Tamriel Rebuilt and Project Tamriel.
 
 
 ### [Gallery](pending)
@@ -38,7 +35,7 @@ For the actual installation of TOTSP, I recommend the use of [Wrye Mash](https:/
 1. Download and install Wrye Mash, Polemos Fork
 2. Create a folder named "Installers" in or beside your Morrowind Folder - NOT in your Data Files folder.
 3. Download the Solstheim archive(s) and put them into your “Installer” packages folder
-4. Open Wrye Mash and Click on the Installers tab
+4. Open Wrye Mash and click on the Installers tab
 5. Click on the mod archive. On the right, you will see a list of sub-packages. 
 6. Select (tick) the sub-packages you want (you always need the core package)
 7. Right click the archive package in the primary installers field and select install
@@ -46,19 +43,18 @@ For the actual installation of TOTSP, I recommend the use of [Wrye Mash](https:/
 
 
 ### Sub-Packages
-TOTSP has been split into two packages. The first “Solstheim_TOTSP”, contains the landmass overhaul itself, as well as some minor and gameplay changes. The second “Solstheim_Graphical_Replacer” contains only graphical replacers. The two packages are not reliant upon one another. For example, if you want to play TOTSP with vanilla consistent textures and models, then ignore the latter package (as seen in the comparison gallery). 
+TOTSP has been split into two packages. The first “Solstheim_Tomb_of_the_Snow_Prince”, contains the landmass overhaul itself, as well as some optional gameplay mods. The second “Solstheim_Graphical_Replacer” contains only graphical replacers. The two packages are not reliant upon one another. For example, if you want to play TOTSP with vanilla  textures and models then ignore the latter package (as seen in the comparison gallery). 
 
 ##### Tomb of the Snow Prince:
 - 000 Core: a requirement of all subsequential packages.
 - 010 Solstheim - Tomb of the Snow Prince: the landmass overhaul itself. Also includes an esp that adds many new animals and items to - Solstheim level lists, including moose, goats, squirrels, large spiders and various fish.
 - 011 TOTSP Patches: an ever-growing archive of significant compatibility patches between TOTSP and other mods.
-- 012 Armor of the Snow Prince Redux: by Saint_Juib and Moranar, this sub-package replaces the Snow Princes’ armor with a unique armor set, as it originally used the vanilla steel set.
-- 013 Missing Snow Armor Pieces: by Psysama, this mod seamlessly implements Snow Bear and Snow Wolf shields that was otherwise absent in Bloodmoon. It also retextures the vanilla Wolf Shield, as it originally used a texture clearly intended for the Snow Wolf armor set (this texture is now used on the Snow Wolf Shield).
-- 014 Fierce Wolf Helmet: by Alaisiagae and Psymoniser, this replaces the cap-like Wolf armor helmets for wolf heads with agape jaws, similar to the standard Bear helmets.
-- 015 Hide-Like Animals Pelts: replaces the vanilla animal pelt meshes with hide models, in case you want something less gruesome and more decorative. 
+- 012 Missing Snow Armor Pieces: by Psysama, this mod seamlessly implements Snow Bear and Snow Wolf shields that was otherwise absent in Bloodmoon. It also retextures the vanilla Wolf Shield, as it originally used a texture clearly intended for the Snow Wolf armor set (this texture is now used on the Snow Wolf Shield).
+- 013 Fierce Wolf Helmet: by Alaisiagae and Psymoniser, this replaces the cap-like Wolf armor helmets for wolf heads with agape jaws, similar to the standard Bear helmets.
+- 014 Hide-Like Animals Pelts: replaces the vanilla animal pelt meshes with hide models, in case you want something less gruesome and more decorative. 
 
 ##### Solstheim Graphical Replacer:
-- 010 Solstheim - HD Worldspace Graphical Replacer: a consistent and holistic graphical replacer for the majority of Solstheim assets, particularly all ground textures, as well as Skaal and Raven Rock architecture. This package requires [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886) as some of the replacement window meshes are GiTD-aware. Don’t forget to use the Raven Rock add-on which I helped develop. I also recommend [Graphical Herbalism](https://www.nexusmods.com/morrowind/mods/46599), as all the included flora replacers (such as holly and wolfsbane) are GH-aware.
+- 010 Solstheim - HD Worldspace Graphical Replacer: a comprehensive graphical replacer for the many physical assets found in Solstheim, particularly all ground textures, as well as Skaal and Raven Rock architecture. This package requires [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886) as some of the replacement window meshes are GiTD-aware. Don’t forget to use the Raven Rock add-on which I also helped develop. I also recommend [Graphical Herbalism](https://www.nexusmods.com/morrowind/mods/46599), as all the included flora replacers (such as holly and wolfsbane) are GH-aware.
 - 011 Skyrim-Like Trees: replaces the stock Bloodmoon trees with new models akin to those seen in TESV: Skyrim.
 - 012 Remiros’ Groundcover for TOTSP: bespoke groundcover for the overhauled Solstheim. Requires [Remiros’ Groundcover](https://www.nexusmods.com/morrowind/mods/46733), as the art files are not included in TOTSP. Remember to enable the groundcover .esp when generating distant land in MGE XE, but do not enable it in the Morrowind launcher, as the grass will become static and impassable.
 - 012 Grey Solstheim Rocks: overwrites the darker rock texture in the main package with the greyer rock textures from Otis_Geo’s Vanilla Land mod.
