@@ -1,6 +1,12 @@
 ## 2.2.3-DEV
 ### Worldspace Changes
 - Correct a script problem in ColonyTimer that placed NPCs in rocks or buildings during early Raven Rock stages
+- Shuffled interior pieces around to accomodate for new plugins (see Packages Changes)
+- All "windows" in the interior space have been moved into their own plugin or replaced with normal shelves
+- Added chimneys and/or moved them around to synchronise interiors and exteriors in Raven Rock
+### Package Changes:
+- Added an ESP to override the Glow in the Dahrk Raven Rock plugin
+- Added an ESP for people who do not use Glow in the Dahrk
 
 ## 2.2.2
 ### Worldspace Changes
