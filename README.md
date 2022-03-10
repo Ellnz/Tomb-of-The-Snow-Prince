@@ -17,12 +17,12 @@ Comparision slides:
 
 
 
-### [Changelog](https://ellisnz.github.io/Tomb-of-The-Snow-Prince/CL_ToTSP)
+### [Changelog](https://ellnz.github.io/Tomb-of-The-Snow-Prince/CL_ToTSP)
 
 
 ### Download
-- [Solstheim Tomb of the Snow Prince v2.2.0](https://github.com/EllisNZ/Tomb-of-The-Snow-Prince/releases/tag/P1-2.2.0)
-- [Solstheim Graphical Replacer v2.2.0](https://github.com/EllisNZ/Tomb-of-The-Snow-Prince/releases/tag/P2-2.2.0)
+- [Solstheim Tomb of the Snow Prince v2.2.0](https://github.com/ellnz/Tomb-of-The-Snow-Prince/releases/tag/P1-2.2.0)
+- [Solstheim Graphical Replacer v2.2.0](https://github.com/ellnz/Tomb-of-The-Snow-Prince/releases/tag/P2-2.2.0)
 
 
 ![Promotion image](Images/Promo_02.jpg)
