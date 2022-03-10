@@ -13,11 +13,11 @@ Comparision slides:
 - [Skaal Village](https://imgsli.com/MTE5MDk/0/2)
 - [Iggnir River](https://imgsli.com/MTE5MTU/0/2)
 
-### [Changelog](https://ellisnz.github.io/Tomb-of-The-Snow-Prince/CL_ToTSP)
+### [Changelog](https://ellnz.github.io/Tomb-of-The-Snow-Prince/CL_ToTSP)
 
 ### Download
 - [Solstheim Tomb of the Snow Prince v2.2.0](https://github.com/EllisNZ/Tomb-of-The-Snow-Prince/releases/tag/P1-2.2.0)
-- [Solstheim Graphical Replacer v2.2.0](https://github.com/EllisNZ/Tomb-of-The-Snow-Prince/releases/tag/P2-2.2.0)
+- [Solstheim Graphical Replacer v2.2.0](https://github.com/ellnz/Tomb-of-The-Snow-Prince/releases/tag/P2-2.2.0)
 
 ### Installation
 TOTSP has one significant requirement, [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537), which is a data repository used and contributed to by many large mods. I also strongly suggest installing and familiarizing yourself with many of the engine improvements and mods listed [here](https://www.tamriel-rebuilt.org/recommended-mods). TOTSP is best installed after you have first achieved a stable installation baseline. 
