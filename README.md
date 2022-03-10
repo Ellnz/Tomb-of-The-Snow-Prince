@@ -47,16 +47,20 @@ TOTSP has been split into two packages. The first “Solstheim_Tomb_of_the_Snow_
 
 ##### Tomb of the Snow Prince:
 - 000 Core: a requirement of all subsequential packages.
-- 010 Solstheim - Tomb of the Snow Prince: the landmass overhaul itself. Also includes an esp that adds many new animals and items to - Solstheim level lists, including moose, goats, squirrels, large spiders and various fish.
-- 011 TOTSP Patches: an ever-growing archive of significant compatibility patches between TOTSP and other mods.
-- 012 Missing Snow Armor Pieces: by Psysama, this mod seamlessly implements Snow Bear and Snow Wolf shields that was otherwise absent in Bloodmoon. It also retextures the vanilla Wolf Shield, as it originally used a texture clearly intended for the Snow Wolf armor set (this texture is now used on the Snow Wolf Shield).
-- 013 Fierce Wolf Helmet: by Alaisiagae and Psymoniser, this replaces the cap-like Wolf armor helmets for wolf heads with agape jaws, similar to the standard Bear helmets.
-- 014 Hide-Like Animals Pelts: replaces the vanilla animal pelt meshes with hide models, in case you want something less gruesome and more decorative. 
+- 001 Core - Interiors With/Without Glow in the Dahrk: Raven Rock interiors edits depending on wether [GitD](https://www.nexusmods.com/morrowind/mods/45886) is used or not.
+- 010 Optional - Tamriel Data Integration: An esp that adds many new animals and items to - Solstheim level lists, including moose, goats, squirrels, large spiders and various fish.
+- 100 Patch - Patch for Purists: Edits some of the PfP changes to Solstheim
+- 101 Patch - Tamriel Rebuilt (TR_Preview): Corrects a few landscaping edits.
+- 102 Patch - abot's Boats: Edits the scenic routes to work correctly with the changed location of Solstheim.
+- 199 Patch - Forceful Travel NPC Override: A stand-alone ESP containing the edits to the travel NPCs. This is necessary if you use Bloodmoon Rebalance or another mod overriding these NPC's travel markers.
+- 200 Addon - Missing Snow Armor Pieces: by Psysama, this mod seamlessly implements Snow Bear and Snow Wolf shields that was otherwise absent in Bloodmoon. It also retextures the vanilla Wolf Shield, as it originally used a texture clearly intended for the Snow Wolf armor set (this texture is now used on the Snow Wolf Shield).
+- 201 Addon - Fierce Wolf Helmet: by Alaisiagae and Psymoniser, this replaces the cap-like Wolf armor helmets for wolf heads with agape jaws, similar to the standard Bear helmets.
+- 202 Addon - Hide-Like Animals Pelts: replaces the vanilla animal pelt meshes with hide models, in case you want something less gruesome and more decorative. 
 
 ##### Solstheim Graphical Replacer:
 - 010 Solstheim - HD Worldspace Graphical Replacer: a comprehensive graphical replacer for the many physical assets found in Solstheim, particularly all ground textures, as well as Skaal and Raven Rock architecture. This package requires [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886) as some of the replacement window meshes are GiTD-aware. Don’t forget to use the Raven Rock add-on which I also helped develop. I also recommend [Graphical Herbalism](https://www.nexusmods.com/morrowind/mods/46599), as all the included flora replacers (such as holly and wolfsbane) are GH-aware.
 - 011 Skyrim-Like Trees: replaces the stock Bloodmoon trees with new models akin to those seen in TESV: Skyrim.
-- 012 Remiros’ Groundcover for TOTSP: bespoke groundcover for the overhauled Solstheim. Requires [Remiros’ Groundcover](https://www.nexusmods.com/morrowind/mods/46733), as the art files are not included in TOTSP. Remember to enable the groundcover .esp when generating distant land in MGE XE, but do not enable it in the Morrowind launcher, as the grass will become static and impassable.
+- 012 Remiros’ Groundcover for TOTSP: bespoke groundcover for the overhauled Solstheim. Requires [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733), as the art files are not included in TOTSP. Remember to enable the groundcover .esp when generating distant land in MGE XE, but do not enable it in the Morrowind launcher, as the grass will become static and impassable.
 - 013 Grey Solstheim Rocks: overwrites the darker rock texture in the main package with the greyer rock textures from Otis_Geo’s Vanilla Land mod.
 
 ![Promotion image](Images/Promo_03.jpg)
