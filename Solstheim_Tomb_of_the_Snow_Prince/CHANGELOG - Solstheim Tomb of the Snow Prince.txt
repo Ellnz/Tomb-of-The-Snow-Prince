@@ -2,11 +2,17 @@
 ### Worldspace Changes
 - Correct a script problem in ColonyTimer that placed NPCs in rocks or buildings during early Raven Rock stages
 - Shuffled interior pieces around to accomodate for new plugins (see Packages Changes)
-- All "windows" in the interior space have been moved into their own plugin or replaced with normal shelves
+- All "windows" in the interior space have been moved into their own plugin or replaced with normal shelves (see Packages Changes)
 - Added chimneys and/or moved them around to synchronise interiors and exteriors in Raven Rock
+- Revised Raven Rock exterior to make it a bit more town-like, particularly in regards to the western Factor's estate placement
+- Both Trader and Smith now share the same building location and interior shape 
+- New Trader and Smith interior cell names, the old cells are still there but are inaccessible from the outside
+- Added Raven Rock, East Empire Company in one of the spots the Factor's Estate is *not* built in
+- Added a new storehouse at the Raven Rock docks
+- The hot springs near Uncle Sweatshare now have their own unique IDs (relevant for Frostfall)
 ### Package Changes:
 - Added an ESP to override the Glow in the Dahrk Raven Rock plugin
-- Added an ESP for people who do not use Glow in the Dahrk
+- Added an ESP for people who do not use Glow in the Dahrk, also overriding the Glow in the Dahrk Raven Rock plugin
 
 ## 2.2.2
 ### Worldspace Changes
