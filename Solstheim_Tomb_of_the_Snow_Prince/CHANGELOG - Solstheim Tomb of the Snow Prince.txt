@@ -1,4 +1,4 @@
-## 2.2.3-DEV
+## 2.3.0-DEV
 ### Worldspace Changes
 - Correct a script problem in ColonyTimer that placed NPCs in rocks or buildings during early Raven Rock stages
 - Shuffled interior pieces around to accomodate for new plugins (see Packages Changes)
@@ -9,10 +9,13 @@
 - New Trader and Smith interior cell names, the old cells are still there but are inaccessible from the outside
 - Added Raven Rock, East Empire Company in one of the spots the Factor's Estate is *not* built in
 - Added a new storehouse at the Raven Rock docks
+- Added a small island for seagulls south-west of Raven Rock
 - The hot springs near Uncle Sweatshare now have their own unique IDs (relevant for Frostfall)
+- Added a Thirsk dock and a path connecting it to Thirsk
 ### Package Changes:
 - Added an ESP to override the Glow in the Dahrk Raven Rock plugin
 - Added an ESP for people who do not use Glow in the Dahrk, also overriding the Glow in the Dahrk Raven Rock plugin
+- Removed TR_Preview plugin because TR_Preview no longer exists
 
 ## 2.2.2
 ### Worldspace Changes
