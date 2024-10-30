@@ -67,6 +67,9 @@ Bluttier, BUBISHI, Chef, Factor, Frumple Grumple, Leyawynn, Lucevar, Remiros, Me
 ##### Solstheim Asset Contributors
 The Tamriel Rebuilt and Project Tamriel teams for Tamriel Data, Chainy: Hircine statue, SGMonkey: terrain textures, Nebula1: terrain textures, Otis_Geo: terrain textures, ddy: terrain textures, dawghus: Nord tapestries, Hicks123: various textures, Stupostar: various mesh changes and optimizations, and Graphical Herbalism models, Alaisiagae: Bloodmoon pelt replacer BPR, wolf helmet replacer, Remiros: eagle sword, Raven Rock HD, Lake Fjalding fix, Saint_Juib: Snow Prince armor redux, Morana: better Snow Prince armor, Prince Psystorm: missing snow Armor
 
+##### Exterior Developers
+MassiveJuice
+
 ### Permissions
 Under no circumstances may you redistribute TOTSP. You may create mods that depend upon the TOTSP esms and esps. 
 The Glow in the Dahrk addon requires explicit permission of Melchior Dahrk to edit and/or redistribute.
