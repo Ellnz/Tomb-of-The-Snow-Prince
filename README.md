@@ -9,7 +9,7 @@ TOTSP goal is to improve the graphical fidelity, environmental design, and gamep
 
 
 ### [Gallery](pending)
-Comparision slides:
+Comparison slides:
 - [View from Thormoor’s Watch](https://imgsli.com/MTE5MDc/0/2)
 - [Fort Frostmoth](https://imgsli.com/MTE5MDg/0/2)
 - [Skaal Village](https://imgsli.com/MTE5MDk/0/2)
@@ -47,10 +47,9 @@ TOTSP has been split into two packages. The first “Solstheim_Tomb_of_the_Snow_
 
 ##### Tomb of the Snow Prince:
 - 000 Core: a requirement of all subsequential packages.
-- 001 Core - Interiors With/Without Glow in the Dahrk: Raven Rock interiors edits depending on wether [GitD](https://www.nexusmods.com/morrowind/mods/45886) is used or not.
-- 010 Optional - Tamriel Data Integration: An esp that adds many new animals and items to - Solstheim level lists, including moose, goats, squirrels, large spiders and various fish.
+- 001 Core - Interiors With/Without Glow in the Dahrk: Raven Rock interiors edits depending on whether [GitD](https://www.nexusmods.com/morrowind/mods/45886) is used or not.
+- 010 Optional - Tamriel Data Integration: Two esps that add many new animals and items to - Solstheim level lists, including moose, goats, squirrels, large spiders and various fish.
 - 100 Patch - Patch for Purists: Edits some of the PfP changes to Solstheim
-- 101 Patch - Tamriel Rebuilt (TR_Preview): Corrects a few landscaping edits.
 - 102 Patch - abot's Boats: Edits the scenic routes to work correctly with the changed location of Solstheim.
 - 199 Patch - Forceful Travel NPC Override: A stand-alone ESP containing the edits to the travel NPCs. This is necessary if you use Bloodmoon Rebalance or another mod overriding these NPC's travel markers.
 - 200 Addon - Missing Snow Armor Pieces: by Psysama, this mod seamlessly implements Snow Bear and Snow Wolf shields that was otherwise absent in Bloodmoon. It also retextures the vanilla Wolf Shield, as it originally used a texture clearly intended for the Snow Wolf armor set (this texture is now used on the Snow Wolf Shield).
@@ -78,6 +77,8 @@ Bluttier, BUBISHI, Chef, Factor, Frumple Grumple, Leyawynn, Lucevar, Remiros, Me
 ##### Solstheim Asset Contributors
 The Tamriel Rebuilt and Project Tamriel teams for Tamriel Data, Chainy: Hircine statue, SGMonkey: terrain textures, Nebula1: terrain textures, Otis_Geo: terrain textures, ddy: terrain textures, dawghus: Nord tapestries, Hicks123: various textures, Stupostar: various mesh changes and optimizations, and Graphical Herbalism models, Alaisiagae: Bloodmoon pelt replacer BPR, wolf helmet replacer, Remiros: eagle sword, Raven Rock HD, Lake Fjalding fix, Saint_Juib: Snow Prince armor redux, Morana: better Snow Prince armor, Prince Psystorm: missing snow Armor
 
+##### Exterior Developers
+MassiveJuice
 
 ### Permissions
 Under no circumstances may you redistribute TOTSP. You may create mods that depend upon the TOTSP esms and esps. 
