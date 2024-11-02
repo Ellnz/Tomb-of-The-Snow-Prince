@@ -39,9 +39,8 @@ TOTSP has been split into two packages. The first “Solstheim_Tomb_of_the_Snow_
 ##### Tomb of the Snow Prince:
 - 000 Core: a requirement of all subsequential packages.
 - 001 Core - Interiors With/Without Glow in the Dahrk: Raven Rock interiors edits depending on wether GitD is used or not.
-- 010 Optional - Tamriel Data Integration: An esp that adds many new animals and items to - Solstheim level lists, including moose, goats, squirrels, large spiders and various fish.
+- 010 Optional - Tamriel Data Integration: Two esps that add many new animals and items to - Solstheim level lists, including moose, goats, squirrels, large spiders and various fish.
 - 100 Patch - Patch for Purists: Edits some of the PfP changes to Solstheim
-- 101 Patch - Tamriel Rebuilt (TR_Preview): Corrects a few landscaping edits.
 - 102 Patch - abot's Boats: Edits the scenic routes to work correctly with the changed location of Solstheim.
 - 199 Patch - Forceful Travel NPC Override: A stand-alone ESP containing the edits to the travel NPCs. This is necessary if you use Bloodmoon Rebalance or another mod overriding these NPC's travel markers.
 - 200 Addon - Missing Snow Armor Pieces: by Psysama, this mod seamlessly implements Snow Bear and Snow Wolf shields that was otherwise absent in Bloodmoon. It also retextures the vanilla Wolf Shield, as it originally used a texture clearly intended for the Snow Wolf armor set (this texture is now used on the Snow Wolf Shield).
