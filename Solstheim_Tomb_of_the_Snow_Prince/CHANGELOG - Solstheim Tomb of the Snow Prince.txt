@@ -1,17 +1,29 @@
-## 2.3.0-DEV
+## 2.3.0
 ### Worldspace Changes
-- Correct a script problem in ColonyTimer that placed NPCs in rocks or buildings during early Raven Rock stages
-- Shuffled interior pieces around to accomodate for new plugins (see Packages Changes)
-- All "windows" in the interior space have been moved into their own plugin or replaced with normal shelves (see Packages Changes)
-- Added chimneys and/or moved them around to synchronise interiors and exteriors in Raven Rock
-- Revised Raven Rock exterior to make it a bit more town-like, particularly in regards to the western Factor's estate placement
+- Big Raven Rock exterior and interior revisions
+- Changed Raven Rock interiors around to correctly show windows on the inside where they are on the exterior meshes (see Packages Changes)
+- This explicitely includes the Factor's Estate, which has the biggest changes in its storage tower location
+- Added chimneys and/or moved them around to further synchronise interiors and exteriors
+- Revised the Raven Rock layout to make it a bit more town-like, particularly in regards to the western Factor's estate placement
+- Added a new storehouse to the Raven Rock docks
+- Retired one of the storehouses in Raven Rock with another one, due to cell name changes
 - Both Trader and Smith now share the same building location and interior shape 
 - New Trader and Smith interior cell names, the old cells are still there but are inaccessible from the outside
-- Added Raven Rock, East Empire Company in one of the spots the Factor's Estate is *not* built in
-- Added a new storehouse at the Raven Rock docks
+- Changed Factor's Estate locations, making them integrate smoother wherever they are
+- Added "Raven Rock, East Empire Company" in one of the spots the Factor's Estate is *not* built in, using the other Trader/Smith interior shape
 - Added a small island for seagulls south-west of Raven Rock
-- The hot springs near Uncle Sweatshare now have their own unique IDs (relevant for Frostfall)
-- Added a Thirsk dock and a path connecting it to Thirsk
+- Correct a script problem in ColonyTimer that placed NPCs in rocks or buildings during early Raven Rock stages
+- Corrected other script problems, particularly in the EEC questline
+- Thirsk has seen some layout changes to make it more visible, alongside a bit of wildlife and a second exit in the back
+- Added a Thirsk dock and a path connecting it to Thirsk to make their import of mead from Skyrim believable
+- Added a bit of Ashfall support
+- The hot springs near Uncle Sweatshare now have their own unique IDs 
+- The new well in Raven Rock is now accepted as a water source, the other wells should be covered by Ashfall for Bloodmoon and Tamriel_Data
+- FOMOD support
+
+### Graphical Changes:
+- Updated the grass plugin to account for the revised Thirsk and island addition (mostly removing and placing very little)
+
 ### Package Changes:
 - Added an ESP to override the Glow in the Dahrk Raven Rock plugin
 - Added an ESP for people who do not use Glow in the Dahrk, also overriding the Glow in the Dahrk Raven Rock plugin
